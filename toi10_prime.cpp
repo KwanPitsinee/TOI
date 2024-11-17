@@ -4,6 +4,7 @@ using namespace std;
 int p[8000000];
 int c;
 
+
 int main(){
     int n;
     cin>>n;
